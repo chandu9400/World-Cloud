@@ -9,4 +9,5 @@ Now you will need to upload your input file here so that your script will be abl
 
 Result image drawn:-
 
-![image](https://user-images.githubusercontent.com/66731168/188297981-76afddf6-1be3-42f7-bc3d-50dbf56311e4.png)
+![download](https://user-images.githubusercontent.com/66731168/188298006-44ef68c6-68b4-4d9f-8304-2fa48f63d42b.png)
+

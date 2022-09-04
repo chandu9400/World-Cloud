@@ -20,7 +20,7 @@ import sys
 import re
 
 
-# Whew! That was a lot. All of the installs and imports for your word cloud script and uploader widget have been completed. 
+All of the installs and imports for your word cloud script and uploader widget have been completed. 
 # <br><br>
 # **IMPORTANT!** If this was your first time running the above cell containing the installs and imports, you will need save this notebook now. Then under the File menu above,  select Close and Halt. When the notebook has completely shut down, reopen it. This is the only way the necessary changes will take affect.
 # <br><br>
